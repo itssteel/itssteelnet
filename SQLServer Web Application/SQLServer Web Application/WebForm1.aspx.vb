@@ -5,7 +5,7 @@ Public Class WebForm1
     Dim smsconn As New SqlConnection(ConfigurationManager.ConnectionStrings("CNS_SMSTEST").ConnectionString.ToString.Trim)
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-    'call the insert into sql table fn
+    'call the insert into sql table function
         insertIntoSMS("Pranab mukherjee", "153259", 83.4)
     End Sub
 
