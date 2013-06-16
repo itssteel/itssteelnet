@@ -1,0 +1,10 @@
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\bin\SQLServer Web Application.dll
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\bin\SQLServer Web Application.pdb
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\bin\SQLServer Web Application.xml
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\SQLServer_Web_Application.Resources.resources
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\SQLServer Web Application.dll
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\SQLServer Web Application.xml
+c:\documents and settings\153259\my documents\visual studio 2010\Projects\SQLServer Web Application\SQLServer Web Application\obj\Debug\SQLServer Web Application.pdb
