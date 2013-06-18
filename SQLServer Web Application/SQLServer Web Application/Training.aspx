@@ -16,4 +16,6 @@
     <p>
         Mentors from ITS who have registered with us are as follows:
     </p>
+    <asp:GridView ID="gvMentorList" runat="server">
+</asp:GridView>
 </asp:Content>
