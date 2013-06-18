@@ -1,5 +1,6 @@
 Imports System.Data.SqlClient
 Imports System.Data
+
 ﻿Public Class Training
     Inherits System.Web.UI.Page
 
