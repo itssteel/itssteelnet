@@ -6,7 +6,7 @@ Public Class WebForm1
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
     'call the insert into sql table function
-        insertIntoSMS("Pranab mukherjee", "153259", 83.4)
+        insertIntoSMS("Pranab mukherjee", "154258", 83.4)
     End Sub
 
 
